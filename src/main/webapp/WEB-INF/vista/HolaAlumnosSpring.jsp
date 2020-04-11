@@ -7,7 +7,7 @@
 <title>Hola Alumnos Spring</title>
 </head>
 <body>
-	Hola $fun! Bienvenido al Curso de Spring
+	Hola fudsgfadssssssssssssssgsdn! Bienvenido al Curso de Spring
 
 	<p>Creo DEV</p>
 
